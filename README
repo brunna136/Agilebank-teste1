@@ -8,6 +8,9 @@ instalar o robot framework via prompt de comando
 Instalar a selenium library via prompt de comando 
 Validar que as instalações foram bem sucedidas 
 
+Sugestão de extensão: 
+TruePath
+Dracula
 
 Criar a pasta do repositório no C: 
 Abrir a mesma no Vscode 
